@@ -93,7 +93,7 @@ img, video, audio {
   float: left;
   width: 32%;
   background: #ccc;
-  text-indent: 4px;
+  text-align: left;
 }
 
 .col-2 {
