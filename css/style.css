@@ -93,7 +93,8 @@ img, video, audio {
   float: left;
   width: 32%;
   background: #ccc;
-  padding-left: 4px;
+  padding-left: 10px;
+  padding-bottom: 5px
 }
 
 .col-2 {
